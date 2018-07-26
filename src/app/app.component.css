@@ -1,0 +1,9 @@
+span {
+    border: 1px solid #c7c7c7;
+    width: 18%;
+    float: left;
+}
+
+li{
+    list-style: none;
+}
